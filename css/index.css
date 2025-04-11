@@ -1,0 +1,38 @@
+body{
+    background-color: #ff0a54;
+}
+section{
+    width: 80%;
+    background-color: #ff477e;
+    height: 80vh;
+    margin-left: 10%;
+    margin-top: 10vh;
+    border-radius: 10px;
+    box-shadow: 0 0 10px color #ff85a1;
+}
+section img{
+    border-radius: 200px;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 10px;
+}
+section h1{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+section h2{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+section h3{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+section h4{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+section p{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
